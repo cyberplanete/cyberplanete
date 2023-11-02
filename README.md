@@ -1,7 +1,6 @@
 ### Bonjour,👋 
 
-Développeur mobile , j'aime me lancer des déﬁs et ainsi accomplir des tâches complexes.
-Mes champs de compétences comprennent la Conception et le développement d'applications Mobile & Back-end.
+En tant que développeur mobile, je suis passionné par la technologie et j'aime relever des défis tout en travaillant sur des tâches complexes. Mon domaine d'expertise englobe la conception et le développement d'applications mobiles, tout en nourrissant un vif intérêt pour des domaines innovants tels que la domotique.
 
 
   
