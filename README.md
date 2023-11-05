@@ -37,7 +37,7 @@ En tant que développeur mobile, je suis passionné par la technologie et j'aime
 
 # Quizzy
 
-Bienvenue dans Quiz Flutter, l'application de quiz interactive qui vous offre une variété de sujets et de catégories de quiz. Cette application a été développée dans le cadre d'un projet personnel visant à renforcer mes compétences en développement d'applications mobiles avec Flutter.
+Application de quiz interactive qui vous offre une variété de sujets et de catégories de quiz. Cette application a été développée dans le cadre d'un projet personnel visant à renforcer mes compétences en développement d'applications mobiles avec Flutter.
 
 ## Fonctionnalités principales :
 
