@@ -83,9 +83,9 @@ Téléchargez Quiz Flutter dès aujourd'hui et testez vos connaissances sur une 
 
 ## Screenshots
 
-<img src="[screenshots](https://github.com/cyberplanete/quiz_app/blob/7b53c36c651c51e9faf0a371bd2d1825028b6190/screenshots/screenshot1.jpg" width="200"><img src="screenshots/screenshot2.jpg" width="200">
-<img src="[screenshots](https://github.com/cyberplanete/quiz_app/tree/7b53c36c651c51e9faf0a371bd2d1825028b6190/screenshots)/screenshot3.jpg" width="200"><img src="screenshots/screenshot4.jpg" width="200">
-<img src="[screenshots](https://github.com/cyberplanete/quiz_app/tree/7b53c36c651c51e9faf0a371bd2d1825028b6190/screenshots)https://github.com/cyberplanete/quiz_app/tree/7b53c36c651c51e9faf0a371bd2d1825028b6190/screenshots/Screenshot5.jpg" with="200">
+<img src="[screenshots](/screenshots/screenshot1.jpg" width="200"><img src="screenshots/screenshot2.jpg" width="200">
+<img src="[screenshots](/screenshots)/screenshot3.jpg" width="200"><img src="screenshots/screenshot4.jpg" width="200">
+<img src="[screenshots](/screenshots/Screenshot5.jpg" with="200">
 
 
 ### En cours de développement
