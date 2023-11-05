@@ -83,7 +83,7 @@ Téléchargez Quiz Flutter dès aujourd'hui et testez vos connaissances sur une 
 
 ## Screenshots
 
-<img src="[screenshots](screenshot1.jpg" width="200"><img src="screenshot2.jpg" width="200">
+<img src="[screenshots](screenshot1.jpg" width="200"/><img  src="[screenshots]screenshot2.jpg" width="200">
 <img src="[screenshots](screenshot3.jpg" width="200"><img src="screenshot4.jpg" width="200">
 <img src="[screenshots](screenshot5.jpg" with="200">
 
