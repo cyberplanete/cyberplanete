@@ -59,7 +59,6 @@ Application de quiz interactive qui vous offre une variété de sujets et de cat
 
 - Comparaison des scores : Je prévois d'ajouter une fonctionnalité de comparaison de votre score avec celui des autres joueurs. Voyez comment vous vous classez parmi les participants et peut-être même participez à un classement au niveau national.
 
-- Publication sur le store : J'ai l'intention de publier cette application sur les magasins d'applications, ce qui vous permettra de télécharger et de jouer à des quiz passionnants à tout moment.
 
 ## Technologies utilisées :
 
