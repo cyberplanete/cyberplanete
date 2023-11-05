@@ -35,11 +35,11 @@ En tant que développeur mobile, je suis passionné par la technologie et j'aime
 <br>
 
 
-## Quiz Flutter
+# Quizzy
 
 Bienvenue dans Quiz Flutter, l'application de quiz interactive qui vous offre une variété de sujets et de catégories de quiz. Cette application a été développée dans le cadre d'un projet personnel visant à renforcer mes compétences en développement d'applications mobiles avec Flutter.
 
-### Fonctionnalités principales :
+## Fonctionnalités principales :
 
 - Génération dynamique de questions : Les questions du quiz sont générées à partir d'une source de données, permettant une personnalisation en fonction du sujet et de la catégorie choisis.
 
@@ -53,19 +53,21 @@ Bienvenue dans Quiz Flutter, l'application de quiz interactive qui vous offre un
 
 - Score : Votre score est calculé en fonction des réponses correctes et affiché à la fin du quiz.
 
-### Fonctionnalités à venir :
+- Mise à jour automatique de la base de données : L'application compare la version de la base de données du serveur avec celle locale, et effectue une mise à jour automatique si une version plus récente est disponible.
 
-- Comparaison des scores : Nous prévoyons d'ajouter une fonctionnalité de comparaison de votre score avec celui des autres joueurs. Voyez comment vous vous classez parmi les participants et peut-être même participez à un classement au niveau national.
+## Fonctionnalités à venir :
 
-- Publication sur le store : Nous avons l'intention de publier cette application sur les magasins d'applications, ce qui vous permettra de télécharger et de jouer à des quiz passionnants à tout moment.
+- Comparaison des scores : Je prévois d'ajouter une fonctionnalité de comparaison de votre score avec celui des autres joueurs. Voyez comment vous vous classez parmi les participants et peut-être même participez à un classement au niveau national.
 
-### Technologies utilisées :
+- Publication sur le store : J'ai l'intention de publier cette application sur les magasins d'applications, ce qui vous permettra de télécharger et de jouer à des quiz passionnants à tout moment.
+
+## Technologies utilisées :
 
 - Flutter : Le framework open-source de Google pour le développement d'applications multiplateformes.
 
 - Dart : Le langage de programmation utilisé pour développer des applications Flutter.
 
-### Comment utiliser l'application :
+## Comment utiliser l'application :
 
 1. Sélectionnez un sujet et une catégorie pour commencer le quiz.
 
@@ -76,8 +78,6 @@ Bienvenue dans Quiz Flutter, l'application de quiz interactive qui vous offre un
 4. Votre score sera calculé en fonction de vos réponses correctes.
 
 5. À la fin du quiz, vous pourrez voir votre score final et relancer le quiz avec un nouveau sujet et une nouvelle catégorie.
-
-Téléchargez Quiz Flutter dès aujourd'hui et testez vos connaissances sur une multitude de sujets passionnants !
 
 ### Compatible Android ou Ios
 
