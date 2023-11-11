@@ -113,7 +113,9 @@ Application de quiz interactive qui vous offre une variété de sujets et de cat
 
 <br>
 <br>
-## D'autres projets:
+
+## Autres Projets
+
 <br>
 <br>
 
