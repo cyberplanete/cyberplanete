@@ -106,8 +106,8 @@ Application de quiz interactive qui vous offre une variété de sujets et de cat
 
 
 ### D'autres projets
-<img src="screenshots/Screenshot.jpg" width="200"><img src="screenshots/Screenshot2.jpg" width="200">
-<img src="screenshots/Screenshot3.jpg" width="200"><img src="screenshots/Screenshot4.jpg" width="200">
-<img src="screenshots/Screenshot5.jpg" width="200"><img src="screenshots/Screenshot6.jpg" width="200">
-<img src="screenshots/Screenshot7.jpg" width="200">
+<img src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot.jpg" width="200"><img src="https://github.com/cyberplanete/socially/blob/master/screenshots/screenshots/Screenshot2.jpg" width="200">
+<img src="https://github.com/cyberplanete/socially/blob/master/screenshots/screenshots/Screenshot3.jpg" width="200"><img src="https://github.com/cyberplanete/socially/blob/master/screenshots/screenshots/Screenshot4.jpg" width="200">
+<img src="https://github.com/cyberplanete/socially/blob/master/screenshots/screenshots/Screenshot5.jpg" width="200"><img src="https://github.com/cyberplanete/socially/blob/master/screenshots/screenshots/Screenshot6.jpg" width="200">
+<img src="https://github.com/cyberplanete/socially/blob/master/screenshots/screenshots/Screenshot7.jpg" width="200">
 
