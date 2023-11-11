@@ -44,9 +44,16 @@ Application quiz développée avec Flutter. Cette application est conçue pour t
 L'application repose sur une architecture robuste basée sur le modèle MVC (Modèle-Vue-Contrôleur), garantissant une séparation claire entre la gestion de la base de données, la logique métier, et l'interface utilisateur.
 
 ### Points Forts de l'Architecture
-- **Gestion de la Base de Données SQLite**: Une base de données locale robuste pour stocker et gérer efficacement les données des quiz.
-- **Programmation Asynchrone**: Utilisation intensive des `Futures` et des `Streams` pour une expérience utilisateur fluide et réactive.
-- **FTP et Gestion de Fichiers**: Fonctionnalités avancées pour connecter l'application à un serveur FTP et gérer le téléchargement et le traitement des fichiers.
+## Gestion de la Base de Données SQLite
+L'application utilise SQLite pour stocker et gérer les données des quiz. Chaque mise à jour ajoute de nouvelles données importantes. Les scripts SQL importés sont exécutés pour des insertions précises, enrichissant ainsi constamment la base de données des questions.
+
+## Programmation Asynchrone
+Les `Futures` et `Streams` de Flutter sont employés pour une gestion efficace des opérations de base de données et de réseau. Cette approche assure une expérience utilisateur fluide, en évitant les blocages de l'interface utilisateur.
+
+## FTP et Gestion de Fichiers
+La fonctionnalité de connexion FTP permet de télécharger des fichiers pour la mise à jour régulière de la base de données. Ce processus comprend le téléchargement, la validation et le traitement des fichiers, maintenant l'application à jour avec les dernières données.
+
+
 
 ## Fonctionnalités Clés
 - **Génération Dynamique de Quiz**: L'application permet de créer des quiz variés, avec un mélange aléatoire de questions pour chaque session.
