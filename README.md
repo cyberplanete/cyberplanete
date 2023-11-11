@@ -1,156 +1,100 @@
-### Bonjour,👋 
+# Bonjour,👋
 
-En tant que développeur Android, ma passion pour la technologie me pousse constamment à explorer de nouveaux horizons et à m'attaquer à des projets stimulants. Spécialisé dans la conception et le développement d'applications mobiles, je m'efforce d'apporter des solutions innovantes et performantes. Mon enthousiasme pour les avancées technologiques s'étend également à des domaines comme la domotique, où je trouve l'inspiration pour intégrer des fonctionnalités intelligentes et connectées dans mes développements mobiles.
-
-
-  
+En tant que développeur Android, ma passion pour la technologie m'incite à explorer constamment de nouveaux horizons et relever des défis stimulants. Spécialiste en conception et développement d'applications mobiles, je m'efforce d'apporter des solutions innovantes et performantes. Je suis également passionné par des domaines innovants comme la domotique, source d'inspiration pour enrichir mes projets de fonctionnalités intelligentes et connectées.
 
 ## Me contacter
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pascal-j-421867164/)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/9836093/pascal-joret)
-
-
-
-<br>
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-%230077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pascal-j-421867164/)
+[![Stack Overflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/9836093/pascal-joret)
 
 ## Expertise
 
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="ios" src="https://img.shields.io/badge/iOS%20-%236DB33F.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img align="left" alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
-<br>
-<br>
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-%236DB33F?style=flat-square&logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
 
 ## Programming Languages
 
-
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<br>
-<br>
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
 
 # Application de Quiz sur Flutter
 
 ## Introduction
-Application quiz développée avec Flutter. Cette application est conçue pour tester les connaissances dans divers domaines.
+
+Application quiz développée avec Flutter, conçue pour tester les connaissances dans divers domaines.
 
 ## Architecture et Conception
-L'application repose sur une architecture robuste basée sur le modèle MVC (Modèle-Vue-Contrôleur), garantissant une séparation claire entre la gestion de la base de données, la logique métier, et l'interface utilisateur.
+
+L'application repose sur une architecture robuste basée sur le modèle MVC (Modèle-Vue-Contrôleur), assurant une gestion claire de la base de données, la logique métier, et l'interface utilisateur.
 
 ### Points Forts de l'Architecture
-## Gestion de la Base de Données SQLite
-L'application utilise SQLite pour stocker et gérer les données des quiz. Chaque mise à jour ajoute de nouvelles données importantes. Les scripts SQL importés sont exécutés pour des insertions précises, enrichissant ainsi constamment la base de données des questions.
 
-## Programmation Asynchrone
-Les `Futures` et `Streams` de Flutter sont employés pour une gestion efficace des opérations de base de données et de réseau. Cette approche assure une expérience utilisateur fluide, en évitant les blocages de l'interface utilisateur.
+#### Gestion de la Base de Données SQLite
 
-## FTP et Gestion de Fichiers
-La fonctionnalité de connexion FTP permet de télécharger des fichiers pour la mise à jour régulière de la base de données. Ce processus comprend le téléchargement, la validation et le traitement des fichiers, maintenant l'application à jour avec les dernières données.
+L'application utilise SQLite pour stocker et gérer les données des quiz. Chaque mise à jour ajoute de nouvelles données importantes. Les scripts SQL importés sont exécutés pour des insertions précises, enrichissant ainsi constamment la base de données.
 
+#### Programmation Asynchrone
 
+Les `Futures` et `Streams` de Flutter sont utilisés pour une gestion efficace des opérations de base de données et de réseau, assurant une expérience utilisateur fluide.
+
+#### FTP et Gestion de Fichiers
+
+La fonctionnalité de connexion FTP permet de télécharger des fichiers pour la mise à jour régulière de la base de données. Ce processus comprend le téléchargement, la validation et le traitement des fichiers.
 
 ## Fonctionnalités Clés
-- **Génération Dynamique de Quiz**: L'application permet de créer des quiz variés, avec un mélange aléatoire de questions pour chaque session.
-- **Interface Intuitive**: Une interface utilisateur attrayante et facile à naviguer, offrant une expérience utilisateur agréable et intuitive.
+
+- **Génération Dynamique de Quiz** : L'application permet de créer des quiz variés avec un mélange aléatoire de questions.
+- **Interface Intuitive** : Une interface utilisateur attrayante et facile à naviguer.
 
 # Quizzy
 
-Application de quiz interactive qui vous offre une variété de sujets et de catégories de quiz. Cette application a été développée dans le cadre d'un projet personnel visant à renforcer mes compétences en développement d'applications mobiles avec Flutter.
+Application de quiz interactive offrant une variété de sujets et de catégories. Développée pour renforcer mes compétences en développement d'applications mobiles avec Flutter.
 
-## Fonctionnalités principales :
+## Fonctionnalités principales
 
-- Génération dynamique de questions : Les questions du quiz sont générées à partir d'une source de données, permettant une personnalisation en fonction du sujet et de la catégorie choisis.
+- Génération dynamique de questions.
+- Barre de progression pour suivre la progression dans le quiz.
+- Sélection d'options tactile avec changement de couleur pour indiquer la sélection.
+- Validation des réponses et calcul du score.
+- Mise à jour automatique de la base de données.
 
-- Options de réponse générées aléatoirement.
+## Fonctionnalités à venir
 
-- Barre de progression : Suivez votre progression dans le quiz grâce à une barre de progression qui indique la question en cours.
+- Comparaison des scores avec d'autres joueurs.
 
-- Sélection d'options : Choisissez parmi les options de réponse en touchant l'écran, avec un changement de couleur pour indiquer votre sélection.
+## Technologies utilisées
 
-- Validation des réponses : Après avoir choisi une réponse et appuyé sur "Soumettre", la couleur de l'option change pour indiquer si la réponse est correcte ou incorrecte.
+- Flutter et Dart pour le développement d'applications multiplateformes.
 
-- Score : Votre score est calculé en fonction des réponses correctes et affiché à la fin du quiz.
-
-- Mise à jour automatique de la base de données : L'application compare la version de la base de données du serveur avec celle locale, et effectue une mise à jour automatique si une version plus récente est disponible.
-
-## Fonctionnalités à venir :
-
-- Comparaison des scores : Je prévois d'ajouter une fonctionnalité de comparaison de votre score avec celui des autres joueurs. Voyez comment vous vous classez parmi les participants et peut-être même participez à un classement au niveau national.
-
-
-## Technologies utilisées :
-
-- Flutter : Le framework open-source de Google pour le développement d'applications multiplateformes.
-
-- Dart : Le langage de programmation utilisé pour développer des applications Flutter.
-
-## Comment utiliser l'application :
+## Comment utiliser l'application
 
 1. Sélectionnez un sujet et une catégorie pour commencer le quiz.
+2. Répondez aux questions.
+3. Appuyez sur "Soumettre" pour valider votre réponse.
+4. Votre score est calculé en fonction des réponses correctes.
+5. À la fin du quiz, visualisez votre score final.
 
-2. Répondez aux questions en sélectionnant l'une des options.
-
-3. Appuyez sur le bouton "Soumettre" pour valider votre réponse.
-
-4. Votre score sera calculé en fonction de vos réponses correctes.
-
-5. À la fin du quiz, vous pourrez voir votre score final et relancer le quiz avec un nouveau sujet et une nouvelle catégorie.
-
-### Compatible Android ou Ios
+### Compatible Android ou iOS
 
 ## Screenshots
 
-<video src="presentationCourte.webm" controls>
-  Désolé, ton navigateur ne supporte pas les vidéos embarquées.
-</video>
-<img align="left" src="Screenshot1.png" width="200"><img align="left" src="Screenshot2.png" width="200"/><img align="left" src="Screenshot3.png" width="200"><img align="left" src="Screenshot4.png" width="200"/>
-<img align="left" src="Screenshot5.png" width="200"/><img align="left" src="Screenshot6.png" width="200"/><img align="left" src="Screenshot7.png" width="200"/><img align="left" src="Screenshot8.png" width="200"/>
+<video src="presentationCourte.webm" controls> Désolé, votre navigateur ne supporte pas les vidéos embarquées. </video>
 
-<br>
-<br>
+<img src="Screenshot1.png" width="200" alt="Screenshot 1" /> <img src="Screenshot2.png" width="200" alt="Screenshot 2" />
+<img src="Screenshot3.png" width="200" alt="Screenshot 3" /> <img src="Screenshot4.png" width="200" alt="Screenshot 4" />
+<img src="Screenshot5.png" width="200" alt="Screenshot 5" /> <img src="Screenshot6.png" width="200" alt="Screenshot 6" />
+<img src="Screenshot7.png" width="200" alt="Screenshot 7" /> <img src="Screenshot8.png" width="200" alt="Screenshot 8" />
+
+<br clear="left" /> <!-- Cette balise assure que le contenu suivant commence sur une nouvelle ligne. -->
 
 ## Autres Projets
 
-
-
-<br>
-<br>
-<img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot.jpg" width="200"/> <img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot2.jpg" width="200"/>
-<img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot3.jpg" width="200"/> <img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot4.jpg" width="200"/>
-<img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot5.jpg" width="200"/> <img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot6.jpg" width="200"/> 
-<br>
-<br>
-
-<img align="left" src="https://github.com/cyberplanete/7MinutesMusculations_Kotlin/blob/1c696c2b8ee8783d92349ee1db49c116470bf0e7/screenshots/screenshot2.png" width="200"/> 
-<img align="left" src="https://github.com/cyberplanete/7MinutesMusculations_Kotlin/blob/1c696c2b8ee8783d92349ee1db49c116470bf0e7/screenshots/screenshot1.png" width="200"/>
-<img align="left" src="https://github.com/cyberplanete/7MinutesMusculations_Kotlin/blob/1c696c2b8ee8783d92349ee1db49c116470bf0e7/screenshots/screenshot3.png" width="200"/> 
-<img align="left" src="https://github.com/cyberplanete/7MinutesMusculations_Kotlin/blob/1c696c2b8ee8783d92349ee1db49c116470bf0e7/screenshots/screenshot4.png" width="200"/>
-<img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot7.jpg" width="200">
-
-
-
-
-
-
+<!-- Ajoute ici les liens et images pour tes autres projets. Exemple : -->
+<img src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot.jpg" width="200" alt="Projet Socially" />
+<img src="https://github.com/cyberplanete/7MinutesMusculations_Kotlin/blob/1c696c2b8ee8783d92349ee1db49c116470bf0e7/screenshots/screenshot2.png" width="200" alt="7 Minutes Musculations" />
 
 ## .......
-
-
-
-
-
-
-
-
-
-
-
-
-
-
