@@ -35,6 +35,23 @@ En tant que développeur mobile, je suis passionné par la technologie et j'aime
 <br>
 
 
+# Application de Quiz sur Flutter
+
+## Introduction
+Bienvenue sur le dépôt de mon projet d'application de quiz développée avec Flutter. Cette application offre une expérience utilisateur interactive et engageante, conçue pour tester les connaissances dans divers domaines.
+
+## Architecture et Conception
+L'application repose sur une architecture robuste basée sur le modèle MVC (Modèle-Vue-Contrôleur), garantissant une séparation claire entre la gestion de la base de données, la logique métier, et l'interface utilisateur.
+
+### Points Forts de l'Architecture
+- **Gestion de la Base de Données SQLite**: Une base de données locale robuste pour stocker et gérer efficacement les données des quiz.
+- **Programmation Asynchrone**: Utilisation intensive des `Futures` et des `Streams` pour une expérience utilisateur fluide et réactive.
+- **FTP et Gestion de Fichiers**: Fonctionnalités avancées pour connecter l'application à un serveur FTP et gérer le téléchargement et le traitement des fichiers.
+
+## Fonctionnalités Clés
+- **Génération Dynamique de Quiz**: L'application permet de créer des quiz variés, avec un mélange aléatoire de questions pour chaque session.
+- **Interface Intuitive**: Une interface utilisateur attrayante et facile à naviguer, offrant une expérience utilisateur agréable et intuitive.
+
 # Quizzy
 
 Application de quiz interactive qui vous offre une variété de sujets et de catégories de quiz. Cette application a été développée dans le cadre d'un projet personnel visant à renforcer mes compétences en développement d'applications mobiles avec Flutter.
@@ -84,9 +101,8 @@ Application de quiz interactive qui vous offre une variété de sujets et de cat
 <video src="presentationCourte.webm" controls>
   Désolé, ton navigateur ne supporte pas les vidéos embarquées.
 </video>
-<img src="Screenshot1.png" width="200"><img src="Screenshot2.png" width="200">
-<img src="Screenshot3.png" width="200"><img src="Screenshot4.png" width="200">
-<img src="Screenshot5.png" width="200"><img src="Screenshot6.png" width="200">
-<img src="Screenshot7.png" width="200"><img src="Screenshot8.png" width="200">
+<img src="Screenshot1.png" width="200"><img src="Screenshot2.png" width="200"><img src="Screenshot3.png" width="200"><img src="Screenshot4.png" width="200">
+<img src="Screenshot5.png" width="200"><img src="Screenshot6.png" width="200"><img src="Screenshot7.png" width="200"><img src="Screenshot8.png" width="200">
+
 
 ### En cours de développement
