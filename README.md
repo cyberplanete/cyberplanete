@@ -105,6 +105,7 @@ Application de quiz interactive qui vous offre une variété de sujets et de cat
 ### Compatible Android ou Ios
 
 ## Screenshots
+
 <video src="presentationCourte.webm" controls>
   Désolé, ton navigateur ne supporte pas les vidéos embarquées.
 </video>
@@ -116,13 +117,11 @@ Application de quiz interactive qui vous offre une variété de sujets et de cat
 
 ## Autres Projets
 
+
+
 <br>
 <br>
-
-
-
 <img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot.jpg" width="200"> <img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot2.jpg" width="200"> <img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot3.jpg" width="200"> <img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot4.jpg" width="200"> <img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot5.jpg" width="200"> <img align="left" src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot6.jpg" width="200"> 
-
 <br>
 <br>
 
