@@ -111,6 +111,6 @@ Application de quiz interactive qui vous offre une variété de sujets et de cat
 <img src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot5.jpg" width="200"><img src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot6.jpg" width="200">
 <img src="https://github.com/cyberplanete/socially/blob/master/screenshots/Screenshot7.jpg" width="200">
 
-<img src="[screenshots/screenshot2.png](https://github.com/cyberplanete/7MinutesMusculations_Kotlin/blob/1c696c2b8ee8783d92349ee1db49c116470bf0e7/screenshots/screenshot2.png)" width="200"> <img src="/screenshot2.png" width="200">
+<img src="https://github.com/cyberplanete/7MinutesMusculations_Kotlin/blob/1c696c2b8ee8783d92349ee1db49c116470bf0e7/screenshots/screenshot2.png" width="200"> <img src="/screenshot2.png" width="200">
 
 <img src="/screenshot3.png" width="200"> <img src="/screenshot4.png" width="200">
