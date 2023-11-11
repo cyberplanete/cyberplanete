@@ -1,6 +1,6 @@
 ### Bonjour,👋 
 
-En tant que développeur mobile, je suis passionné par la technologie et j'aime relever des défis tout en travaillant sur des tâches complexes. Mon domaine d'expertise englobe la conception et le développement d'applications mobiles, tout en nourrissant un vif intérêt pour des domaines innovants tels que la domotique.
+En tant que développeur Android, ma passion pour la technologie me pousse constamment à explorer de nouveaux horizons et à m'attaquer à des projets stimulants. Spécialisé dans la conception et le développement d'applications mobiles, je m'efforce d'apporter des solutions innovantes et performantes. Mon enthousiasme pour les avancées technologiques s'étend également à des domaines comme la domotique, où je trouve l'inspiration pour intégrer des fonctionnalités intelligentes et connectées dans mes développements mobiles.
 
 
   
