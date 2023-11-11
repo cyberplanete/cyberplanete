@@ -101,7 +101,7 @@ Application de quiz interactive qui vous offre une variété de sujets et de cat
 <video src="presentationCourte.webm" controls>
   Désolé, ton navigateur ne supporte pas les vidéos embarquées.
 </video>
-<img src="Screenshot1.png" width="200"><img src="Screenshot2.png" width="200"><img src="Screenshot3.png" width="200"><img src="Screenshot4.png" width="200">
+<img align="left" src="Screenshot1.png" width="200"><img align="left" src="Screenshot2.png" width="200"><img align="left" src="Screenshot3.png" width="200"><img src="Screenshot4.png" width="200">
 <img src="Screenshot5.png" width="200"><img src="Screenshot6.png" width="200"><img src="Screenshot7.png" width="200"><img src="Screenshot8.png" width="200">
 
 
