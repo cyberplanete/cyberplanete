@@ -38,7 +38,7 @@ En tant que développeur Android, ma passion pour la technologie me pousse const
 # Application de Quiz sur Flutter
 
 ## Introduction
-Bienvenue sur le dépôt de mon projet d'application de quiz développée avec Flutter. Cette application offre une expérience utilisateur interactive et engageante, conçue pour tester les connaissances dans divers domaines.
+Application quiz développée avec Flutter. Cette application est conçue pour tester les connaissances dans divers domaines.
 
 ## Architecture et Conception
 L'application repose sur une architecture robuste basée sur le modèle MVC (Modèle-Vue-Contrôleur), garantissant une séparation claire entre la gestion de la base de données, la logique métier, et l'interface utilisateur.
