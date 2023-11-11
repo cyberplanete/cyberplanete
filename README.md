@@ -87,6 +87,6 @@ Application de quiz interactive qui vous offre une variété de sujets et de cat
 <img src="Screenshot1.png" width="200"><img src="Screenshot2.png" width="200">
 <img src="Screenshot3.png" width="200"><img src="Screenshot4.png" width="200">
 <img src="Screenshot5.png" with="200"><img src="Screenshot6.png" width="200">
-<img src="Screenshot7.png" width="200">
+<img src="Screenshot7.png" width="200"><img src="Screenshot8.png" width="200">
 
 ### En cours de développement
