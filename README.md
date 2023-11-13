@@ -92,6 +92,6 @@ Application de quiz interactive offrant une variété de sujets et de catégorie
 ## Autres Projets
 
 <!-- Ajoute ici les liens et images pour tes autres projets. Exemple : -->
-<img src="collage_image2.png" width="200" alt="Projet Socially" />
+<img src="collage_image2.png" alt="Projet Socially" />
 
 ## .......
