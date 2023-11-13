@@ -84,7 +84,7 @@ Application de quiz interactive offrant une variété de sujets et de catégorie
 
 <video src="presentationCourte.webm" controls> Désolé, votre navigateur ne supporte pas les vidéos embarquées. </video>
 
-<img src="combined_image.png" width="200" alt="Screenshot 1" /> 
+<img src="combined_image.png" alt="Screenshot 1" /> 
 
 
 <br clear="left" /> <!-- Cette balise assure que le contenu suivant commence sur une nouvelle ligne. -->
