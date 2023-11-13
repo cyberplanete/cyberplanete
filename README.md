@@ -1,6 +1,6 @@
 # Bonjour,👋
 
-En tant que développeur Android, ma passion pour la technologie m'incite à explorer constamment de nouveaux horizons et relever des défis stimulants. Spécialiste en conception et développement d'applications mobiles, je m'efforce d'apporter des solutions innovantes et performantes. Je suis également passionné par des domaines innovants comme la domotique, source d'inspiration pour enrichir mes projets de fonctionnalités intelligentes et connectées.
+En tant que développeur Android, ma passion pour la technologie m'incite à explorer constamment de nouveaux horizons et relever des défis stimulants. Je me suis spécialisé dans la conception et développement d'applications mobiles, je m'efforce d'apporter des solutions innovantes et performantes. Je suis également passionné par des domaines innovants comme la domotique, source d'inspiration pour enrichir mes projets de fonctionnalités intelligentes et connectées.
 
 ## Me contacter
 
