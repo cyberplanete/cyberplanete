@@ -79,6 +79,8 @@ Application de quiz interactive offrant une variété de sujets et de catégorie
 5. À la fin du quiz, visualisez votre score final.
 
 ### Compatible Android ou iOS
+[Télécharger sur le Play Store](https://play.google.com/store/apps/details?id=net.courrielprivate.quizapplication)
+
 
 ## Screenshots
 
